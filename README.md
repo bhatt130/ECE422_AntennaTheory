@@ -1,2 +1,2 @@
 # ECE422_AntennaTheory
-Polar scatter plot for Antenna experiment data in Python using the Matplotlib library for ECE422 course at UofT
+Polar scatter plots for Antenna experimental data in Python using the Matplotlib library for the ECE422 course at UofT. Reuse not permitted.
